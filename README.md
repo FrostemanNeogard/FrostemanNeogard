@@ -1,7 +1,11 @@
 # Liam Frosteman Neogard
+
 **20-year-old**
+
 **He/him**
+
 **Frontend Developer**
+
 **Favourite technologies: React | Sass | Javascript | Node.js**
 
 ## Strengths
