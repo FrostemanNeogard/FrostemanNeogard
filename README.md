@@ -6,7 +6,7 @@
 
 **Frontend Developer**
 
-**Favourite technologies: React | Sass | Javascript | Node.js**
+**Favourite technologies: React | Sass | TypeScript | Node.js**
 
 ## Strengths
 ⏰ **Fast** learner
