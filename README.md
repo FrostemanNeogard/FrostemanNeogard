@@ -1,7 +1,5 @@
 # Liam Frosteman Neogard
 
-Software engineer by day, and software engineer by night, too.
-
 Creator of the [Framedata Bot](https://github.com/FrostemanNeogard/FramedataBot) and [Combo Notation Maker](https://frostemanneogard.github.io/TekkenNotationMaker/) among other things.
 
 ### If you like what I do:
