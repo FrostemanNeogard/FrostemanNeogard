@@ -6,4 +6,4 @@ Creator of the [Framedata Bot](https://github.com/FrostemanNeogard/FramedataBot)
 <a href="https://www.buymeacoffee.com/funnyorangcat" target="__blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Contact me!
-**Email: liamfrostegard@gmail.com**
+**Email: liamfrostemanneogard@gmail.com**
